@@ -1,8 +1,8 @@
 # UK Job Market Analysis Dashboard
 
-**Tools:** Python (pandas, requests, BeautifulSoup) · Tableau Public · GitHub
+**Tools:** Python (pandas, requests, BeautifulSoup) · Plotly.js · GitHub Pages
 **Dataset:** Reed / ONS Labour Market Statistics (5,000+ listings)
-**Live Dashboard:** [View on Tableau Public](#) *(link once published)*
+**Live Dashboard:** [🔗 View Live Interactive Dashboard](https://mayankjoshi518-coder.github.io/uk-job-market-analysis/)
 
 ---
 
@@ -41,33 +41,3 @@ Which skills, locations, and work arrangements are UK employers actually demandi
 4. **Top Industries Hiring** — treemap of sector volume
 
 > Screenshots in `/visualisations/`
-
----
-
-## Repository Structure
-
-```
-uk-job-market-analysis/
-├── notebooks/
-│   └── analysis.ipynb          # Full analysis pipeline
-├── data/
-│   └── sample_listings.csv     # 100-row sample (full data from ONS)
-├── visualisations/
-│   └── dashboard_screenshot.png
-└── README.md
-```
-
----
-
-## How to Run
-
-```bash
-pip install pandas requests beautifulsoup4 matplotlib seaborn jupyter
-jupyter notebook notebooks/analysis.ipynb
-```
-
----
-
-## Business Summary
-
-> Employers in 2025 prioritise SQL and Excel fluency above all else — even Python. Candidates targeting London FinTech roles should emphasise Power BI and financial domain knowledge. Hybrid roles dominate, but the share of remote positions has plateaued since 2023.
