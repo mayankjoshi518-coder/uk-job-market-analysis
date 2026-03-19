@@ -2,7 +2,7 @@
 
 **Tools:** Python (pandas, requests, BeautifulSoup) · Plotly.js · GitHub Pages
 **Dataset:** Reed / ONS Labour Market Statistics (5,000+ listings)
-**Live Dashboard:** [🔗 View Live Interactive Dashboard](https://mayankjoshi518-coder.github.io/uk-job-market-analysis/)
+**Live Dashboard:** [🔗 View Live Interactive Dashboard](https://mayankjoshiii.github.io/uk-job-market-analysis/)
 
 ---
 
